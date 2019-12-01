@@ -1,0 +1,87 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-color:#03396C;
+}
+
+#homeID
+{
+color: #03396C;
+}
+
+.title
+{
+    margin-top: 300px;
+    margin-left: 5%;
+    margin-bottom:300px ;
+    text-align: center;
+    color: aliceblue;
+    size: 800px;
+    font-family: 'Calistoga', cursive;
+
+}
+
+Section
+{
+    margin-left: 20%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    text-align: justify;
+    color: white;
+}
+
+section h2
+{
+    text-align: center;
+    size: 400px;
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.navHomeStyle
+{
+    position: absolute;
+    top: 0%;
+    list-style:none;
+    height:100%;
+    width: 16%;
+    margin-left: 10px;
+    background-color: #011f4b;
+    color: whitesmoke;
+    position: fixed;
+}
+
+.liStyle
+{
+    height: 16%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.liStyle:hover
+{
+    
+    background-color: rgb(24, 25, 26);
+    color: white;
+}
+.liStyle a
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+img{
+    width: 900px;
+    display: block;
+
+}
